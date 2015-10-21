@@ -26,6 +26,7 @@ module Geocoder
         :google,
         :google_premier,
         :google_places_details,
+        :google_places_nearby,
         :yahoo,
         :bing,
         :geocoder_ca,
